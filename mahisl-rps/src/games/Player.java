@@ -1,3 +1,5 @@
+package games;
+
 public class Player {
     private int score;
     private String name;
@@ -28,4 +30,5 @@ public class Player {
         System.exit( 0);
 
     }
+
 }
